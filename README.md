@@ -2,10 +2,6 @@
 
 > Sou desenvolvedor a 6 anos. Atuo como desenvolvedor backend com C# .Net e aprendendo novas skills de frontend.
 
-[🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele.
-
-💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
-](url)
 ----
 
 ## 🚀 Minhas Skills
