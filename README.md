@@ -1,6 +1,6 @@
 ### 💜 Olá, meu nome é <strong>Andrei Leal!</strong>
 
-> Sou desenvolvedor a 6 anos. Atuo como desenvolvedor backend com C# .Net e aprendendo novas skills de frontend.
+> Sou desenvolvedor a 6 anos. Atuo como desenvolvedor backend com C# e .Net. Atualmente estou aprendendo aprendendo novas skills de frontend.
 
 ----
 
