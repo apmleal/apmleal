@@ -1,10 +1,10 @@
-## 💜 Olá, meu nome é <strong>Andrei Leal!</strong>
+### 💜 Olá, meu nome é <strong>Andrei Leal!</strong>
 
 > Sou desenvolvedor a 6 anos. Atuo como desenvolvedor backend com C# .Net e aprendendo novas skills de frontend.
 
 ----
 
-## 🚀 Minhas Skills
+### 🚀 Minhas Skills
 
 <code><img height="32" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg" alt="c#"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png" alt=".Net"/></code>
@@ -30,9 +30,8 @@
 [<img align="left" alt="Andrei Leal | E-mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
 
 
----
 
-## ⭐ Informações sobre minha conta GitHub
+### ⭐ Informações sobre minha conta GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=apmleal&show_icons=true)
 
 
