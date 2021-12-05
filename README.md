@@ -27,10 +27,10 @@
 
 [<img align="left" alt="Andrei Leal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Andrei Leal | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Andrei Leal | E-mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
 
-___
+---
 
+<br>
 
 ### ⭐ Informações sobre minha conta GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=apmleal&show_icons=true)
@@ -38,5 +38,5 @@ ___
 
 [instagram]: https://www.instagram.com/_andreileal
 [linkedin]: https://www.linkedin.com/in/andrei-leal-a4b9aa1b0
-[email]: mail:andreilealdev@gmail.com
+
 
