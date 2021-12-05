@@ -21,7 +21,7 @@
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio"/></code>
 
----
+----
 
 ### 💬 Contate-me:
 
@@ -29,7 +29,7 @@
 [<img align="left" alt="Andrei Leal | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
----
+----
 
 
 ### ⭐ Informações sobre minha conta GitHub
