@@ -36,8 +36,8 @@
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
 [![Linkedin: SEU NOME](https://img.shields.io/badge/-AndreiLeal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrei-leal-a4b9aa1b0)](https://www.linkedin.com/in/andrei-leal-a4b9aa1b0)
-[![Gmail Badge](https://img.shields.io/badge/-andreilealdev@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:andreilealdev@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-andreilealdev@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:andreilealdev@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-andreilealdev@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andreilealdev@gmail.com)](mailto:andreilealdev@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-andreilealdev@email.com-006bed?style=flat-square&logo=instagram&logoColor=white&link=mailto:SEU-EMAIL)](mailto:andreilealdev@gmail.com)
 
 
 [<img align="left" alt="Andrei Leal | LinkedIn" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />][linkedin]
