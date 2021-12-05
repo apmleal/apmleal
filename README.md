@@ -36,7 +36,7 @@
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
 [![Linkedin: SEU NOME](https://img.shields.io/badge/-AndreiLeal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrei-leal-a4b9aa1b0)](https://www.linkedin.com/in/andrei-leal-a4b9aa1b0)
-[![Gmail Badge](https://img.shields.io/badge/-andreilealdev@email.com-bluestyle=flat-square&logo=Gmail&logoColor=white&link=mailto:andreilealdev@gmail.com)](mailto:andreilealdev@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-andreilealdev@email.com-blue?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andreilealdev@gmail.com)](mailto:andreilealdev@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/AndreiLeal-blue?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_andreileal)](https://www.instagram.com/_andreileal)
 
 
