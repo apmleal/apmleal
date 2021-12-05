@@ -23,14 +23,6 @@
 
 ----
 
-### 💬 Contate-me:
-
-[<img align="left" alt="Andrei Leal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Andrei Leal | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-
-----
-
 
 ### ⭐ Informações sobre minha conta GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=apmleal&show_icons=true)
@@ -38,5 +30,14 @@
 
 [instagram]: https://www.instagram.com/_andreileal
 [linkedin]: https://www.linkedin.com/in/andrei-leal-a4b9aa1b0
+
+----
+
+### 💬 Contate-me:
+
+[<img align="left" alt="Andrei Leal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Andrei Leal | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+
 
 
