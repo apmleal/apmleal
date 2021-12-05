@@ -27,10 +27,6 @@
 ### ⭐ Informações sobre minha conta GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=apmleal&show_icons=true)
 
-
-[instagram]: 
-[linkedin]: https://www.linkedin.com/in/andrei-leal-a4b9aa1b0
-
 ----
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
